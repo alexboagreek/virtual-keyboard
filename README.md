@@ -2,4 +2,4 @@
 
 ### I made task from tutorial! All information you can find in the pull-request
 
-https://github.com/alexboagreek/virtual-keyboard/pull/1
+# Click here(pull-request): https://github.com/alexboagreek/virtual-keyboard/pull/1
